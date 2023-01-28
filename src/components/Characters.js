@@ -33,10 +33,7 @@ const useStyles = makeStyles(() => ({
     paper: {
         height: 140,
         width: 100,
-    },
-    root: {
-        flexGrow: 1,
-    },
+    }
 }));
 
 export const Charachter = (props) => {
